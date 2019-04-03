@@ -9,4 +9,4 @@ First Phase involved cleaning the data.
 Second Phase involved implementing the SAOLA algorithm for feature selection.
 The paper that was implemented: https://arxiv.org/pdf/1511.09263.pdf
 
-Third Phase involved classificaiton.
+Third Phase involved classification. The classification models that were implemented: KNN,Random Forest, Support Vector Classifier. More details is enclosed in the document
